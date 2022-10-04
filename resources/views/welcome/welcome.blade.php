@@ -1,4 +1,4 @@
-<h1>ANNONCE </h1>
+<h1>PRODUCT </h1>
 <hr>
 @foreach($products as $product)
     <p>{{ $product->name }}</p>
